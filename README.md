@@ -13,7 +13,7 @@
 
 ---
 
-## 🔭 Latest cool projects
+## 🔭 Things I'm working on
 
 | Project | What it is |
 |---|---|
