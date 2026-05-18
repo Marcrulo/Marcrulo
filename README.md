@@ -1,13 +1,11 @@
-<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q4YWpjc3c1Y3hzcDc0Y2F0bmRnaXp6b3VjbXlvdWxrNXhva3kxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CPy1YwYXatcW8HTLO4/giphy.gif" width="180" align="right" />
 
-# Hey, I'm **Marcus** 👋
+<h1>Hey, I'm <b>Marcus</b> 👋</h1>
 
 *machine learning guy · data nerd · builder of software*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-presutti)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marcus.presutti.eu@gmail.com)
-
-</div>
 
 ---
 
