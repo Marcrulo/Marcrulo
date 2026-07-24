@@ -18,7 +18,7 @@
 |---|---|
 | 📅 **[Monthly Projects](https://github.com/Marcrulo/MonthlyProjects)** | One project a month — experiments, builds, and whatever catches my eye |
 | 🎓 **[Volunteer Teaching](https://unf.dk/aktiviteter/2026-06-29/matematisk-modelleringsuge-2026/)** | Introductory deep learning curriculum for UNF's Mathematical Modelling Week |
-| 📝 **[Master's Thesis](https://github.com/Marcrulo/masters-thesis)** | Work in progress — check back soon |
+| 📝 **[Master's Thesis](https://github.com/Marcrulo/masters-thesis)** | Thesis on improving hand gesture recognition in meeting rooms |
 
 ---
 
